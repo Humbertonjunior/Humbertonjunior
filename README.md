@@ -1,4 +1,4 @@
-# Olá, eu sou Humberto! 👋
+
 
 🎓 Estudante de Ciência da Computação, 5º semestre
 
