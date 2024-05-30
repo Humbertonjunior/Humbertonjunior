@@ -2,7 +2,6 @@
 
 
 ## 🚀 Sobre Mim
-- 🎓 Estudante de Ciência da Computação, 5º semestre.
 - 🌱 Atualmente estou aprendendo mais sobre desenvolvimento full-stack.
 - 🔭 Tenho experiência com Python, C, PHP (Laravel), Bootstrap.
 - 💼 Já trabalhei com métodos ágeis como Scrum, prototipação, desenvolvimento e documentação de projetos.
