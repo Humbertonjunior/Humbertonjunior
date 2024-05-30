@@ -29,18 +29,8 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)
 
-## 📂 Projetos
-
-### [Nome do Projeto 1]
-Descrição breve do projeto, tecnologias usadas, e link para o repositório.
-
-### [Nome do Projeto 2]
-Descrição breve do projeto, tecnologias usadas, e link para o repositório.
 
 ## 📫 Como Me Encontrar
-- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/seu-username)
+- LinkedIn: [Humberto Nascimento](https://www.linkedin.com/in/Humberto Nascimento)
 - E-mail: [humbertojr2k3@gmail.com](mailto:humbertojr2k3@gmail.com)
 
----
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=seu-username.seu-username)
