@@ -5,7 +5,7 @@
 - 🌱 Atualmente estou aprendendo mais sobre desenvolvimento full-stack.
 - 🔭 Tenho experiência com Python, C, PHP (Laravel), Bootstrap.
 - 💼 Já trabalhei com métodos ágeis como Scrum, prototipação, desenvolvimento e documentação de projetos.
-- 🛠️ Tenho conhecimentos em manutenção e suporte de hardware.
+- 🛠️ Tenho conhecimentos em manutenção e suporte de computadores.
 - 🗃️ Experiência com bancos de dados MySQL e PostgreSQL.
 
 ## 🛠️ Tecnologias & Ferramentas
