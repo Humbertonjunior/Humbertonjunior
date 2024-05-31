@@ -30,6 +30,6 @@
 
 
 ## 📫 Como Me Encontrar
-- LinkedIn: [Humberto Nascimento](https://www.linkedin.com/in/)
+- LinkedIn: [Humberto Nascimento](linkedin.com/in/humberto-nascimento-a41088245)
 - E-mail: [humbertojr2k3@gmail.com](mailto:humbertojr2k3@gmail.com)
 
