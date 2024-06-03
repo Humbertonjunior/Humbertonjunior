@@ -4,7 +4,7 @@
 ## 🚀 Sobre Mim
 - 🌱 Atualmente estou aprendendo mais sobre desenvolvimento full-stack.
 - 🔭 Experiência com Python, C, PHP (Laravel), Bootstrap.
-- 💼 Métodos ágeis como Scrum, prototipação, desenvolvimento e documentação de projetos.
+- 💼 Métodos ágeis (Scrum e Kanban), prototipação, desenvolvimento e documentação de projetos.
 - 🛠️ Conhecimento em manutenção e suporte de computadores.
 - 🗃️ Experiência com bancos de dados MySQL e PostgreSQL.
 
